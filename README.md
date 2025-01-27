@@ -33,3 +33,23 @@ Whether for penetration testing, forensic analysis, or system verification, Virt
 
 - **Reliable and Efficient**  
   Fast and accurate detection with minimal system overhead.
+
+## Installation Instructions
+
+### Prerequisites
+
+Before you can install VirtuSpy, make sure you have the following tools:
+
+- **Python 3.6 or higher**: Ensure Python is installed on your system. You can check your Python version with the following command:
+
+  ```bash
+  python --version
+  ```
+  If Python is not installed, you can download it from the official website. <a href="https://www.python.org/downloads/">Download Python</a>
+  
+- **pip** should also be installed. To check if you have `pip`, run the following command in your terminal:
+
+  ```bash
+  pip --version
+  ```
+  If pip is not installed, you can download it from the official website. <a href="https://pip.pypa.io/en/stable/installation">Download pip</a>
