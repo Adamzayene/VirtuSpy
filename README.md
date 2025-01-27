@@ -53,3 +53,9 @@ Before you can install VirtuSpy, make sure you have the following tools:
   pip --version
   ```
   If pip is not installed, you can download it from the official website. <a href="https://pip.pypa.io/en/stable/installation">Download pip</a>
+### Step 1: Clone the Repository
+First, clone the VirtuSpy repository to your machine using Git:
+
+```bash
+git clone https://github.com/your-username/VirtuSpy.git
+```
