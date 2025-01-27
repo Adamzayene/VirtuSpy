@@ -57,5 +57,26 @@ Before you can install VirtuSpy, make sure you have the following tools:
 First, clone the VirtuSpy repository to your machine using Git:
 
 ```bash
-git clone https://github.com/your-username/VirtuSpy.git
+git clone https://github.com/Adamzayene/VirtuSpy.git
 ```
+### Step 2: Navigate to the Project Directory
+After cloning the repository, navigate to the directory containing the code:
+
+```bash
+cd VirtuSpy
+```
+### Step 3: Install Dependencies
+To install all required packages for running VirtuSpy, use the following command:
+
+```bash
+pip install -r requirements.txt
+```
+### Step 4: Run VirtuSpy
+After installing the required dependencies, you can run VirtuSpy using Python:
+
+```bash
+python3 main.py
+```
+## Contributing
+
+We welcome contributions to VirtuSpy from the community! Whether you're reporting bugs, proposing new features, or enhancing existing functionality, your involvement is invaluable. Please feel free to open an issue for discussion or submit a pull request with your proposed changes. All contributions, regardless of size, are highly appreciated and contribute to the project's growth and success.
