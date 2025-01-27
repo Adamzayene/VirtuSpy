@@ -2,6 +2,7 @@
 <div align="center">
   <img src="img/logo.png" alt="VirtuSpy Banner" />
 </div>
+![Version](https://img.shields.io/badge/Version-V1.0-blue?style=flat-square)
 
 VirtuSpy is a cutting-edge tool designed to detect and analyze virtualized environments, including virtual machines (VMs) and sandbox setups, with exceptional precision. By leveraging advanced detection techniques, VirtuSpy uncovers subtle traces left by virtualization platforms, commonly used in security testing and software analysis.
 
