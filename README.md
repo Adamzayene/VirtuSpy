@@ -1,4 +1,8 @@
 # VirtuSpy
+<div align="center">
+  <img src="img/logo.png" alt="VirtuSpy Banner" />
+</div>
+
 VirtuSpy is a cutting-edge tool designed to detect and analyze virtualized environments, including virtual machines (VMs) and sandbox setups, with exceptional precision. By leveraging advanced detection techniques, VirtuSpy uncovers subtle traces left by virtualization platforms, commonly used in security testing and software analysis.
 
 The tool performs comprehensive checks on key system components like file structures, memory configurations, processes, MAC addresses, and registry keys, delivering accurate insights for cybersecurity professionals and analysts.
